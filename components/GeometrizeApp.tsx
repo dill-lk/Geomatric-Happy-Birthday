@@ -24,13 +24,13 @@ export default function GeometrizeApp() {
     const [finished, setFinished] = useState(false);
     const [imageLoaded, setImageLoaded] = useState(false);
     
-    const IMAGE_PATH = process.env.NEXT_PUBLIC_IMAGE_PATH || '/websites/asset.png';
-    const TARGET_SHAPES = Number(process.env.NEXT_PUBLIC_TARGET_SHAPE_COUNT) || 5000;
-    const SHAPE_OPACITY = Number(process.env.NEXT_PUBLIC_SHAPE_OPACITY) || 96;
-    const MUTATIONS = Number(process.env.NEXT_PUBLIC_MUTATIONS_PER_STEP) || 200;
-    const BATCH_SIZE = Number(process.env.NEXT_PUBLIC_SHAPES_PER_BATCH) || 15; 
-    const MESSAGE = process.env.NEXT_PUBLIC_MESSAGE || "Happy Birthday!";
-    const SUB_MESSAGE = process.env.NEXT_PUBLIC_SUB_MESSAGE || "";
+    const IMAGE_PATH = '/websites/asset.png';
+    const TARGET_SHAPES = 5000;
+    const SHAPE_OPACITY = 96;
+    const MUTATIONS = 200;
+    const BATCH_SIZE = 10; 
+    const MESSAGE = "Happy Birthday!";
+    const SUB_MESSAGE = "You caused so many problems last year 🤌🤌 Happy birthday, pissi! And I’m sure you’ll keep causing plenty more, and we’ll be here trying to solve them 😎. May you live long, Malindu's Queen, and may your King stay by your side—wishing your relationship lasts forever. From your BF’s professional problem-maker 😏";
     
     const AUDIO_URL = "https://www.chosic.com/wp-content/uploads/2021/04/Happy-Birthday-To-You-Instrumental.mp3";
 
