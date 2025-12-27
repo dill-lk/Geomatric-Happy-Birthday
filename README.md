@@ -15,11 +15,11 @@ This project is licensed under the **MIT License**, making it free for the commu
 
 ## 🖼️ Gallery
 
-![Surprise Start](<img width="1903" height="977" alt="image" src="https://github.com/user-attachments/assets/3299d174-952a-44e8-862c-8d3ca958c7ed" />
-)
-![Generation Process](<img width="1912" height="970" alt="image" src="https://github.com/user-attachments/assets/ee0f756c-635b-4178-bd58-eb3dc75d44a6" />
-)
-![Finale Result](<img width="1904" height="968" alt="image" src="https://github.com/user-attachments/assets/54daf0e8-b36b-4220-a7b1-7801d17a95a0" />
+<img width="1903" height="977" alt="image" src="https://github.com/user-attachments/assets/3299d174-952a-44e8-862c-8d3ca958c7ed" />
+
+<img width="1912" height="970" alt="image" src="https://github.com/user-attachments/assets/ee0f756c-635b-4178-bd58-eb3dc75d44a6" />
+
+<img width="1904" height="968" alt="image" src="https://github.com/user-attachments/assets/54daf0e8-b36b-4220-a7b1-7801d17a95a0" />
 
 
 ---
