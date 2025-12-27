@@ -15,9 +15,12 @@ This project is licensed under the **MIT License**, making it free for the commu
 
 ## 🖼️ Gallery
 
-![Surprise Start](https://placehold.co/600x400/6B21A8/white?text=Animated+Gift+Box)
-![Generation Process](https://placehold.co/600x400/4C1D95/white?text=Real-time+Art+Generation)
-![Finale Result](https://placehold.co/600x400/000000/white?text=Masterpiece+Finale)
+![Surprise Start](<img width="1903" height="977" alt="image" src="https://github.com/user-attachments/assets/3299d174-952a-44e8-862c-8d3ca958c7ed" />
+)
+![Generation Process](<img width="1912" height="970" alt="image" src="https://github.com/user-attachments/assets/ee0f756c-635b-4178-bd58-eb3dc75d44a6" />
+)
+![Finale Result](<img width="1904" height="968" alt="image" src="https://github.com/user-attachments/assets/54daf0e8-b36b-4220-a7b1-7801d17a95a0" />
+
 
 ---
 
