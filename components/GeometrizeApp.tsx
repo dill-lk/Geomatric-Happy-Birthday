@@ -29,7 +29,7 @@ export default function GeometrizeApp() {
     const SHAPE_OPACITY = 96;
     const MUTATIONS = 200;
     const BATCH_SIZE = 10;
-    const MESSAGE = "Happy Birthday!";
+    const MESSAGE = "Happy 13th Birthday!";
     const SUB_MESSAGE = "You caused so many problems last year 🤌🤌 Happy birthday, pissi! And I'm sure you'll keep causing plenty more, and we'll be here trying to solve them 😎. May you live long, Malindu's Queen, and may your King stay by your side—wishing your relationship lasts forever. From your BF's professional problem-maker 😏";
 
     const AUDIO_URL = "https://www.chosic.com/wp-content/uploads/2021/04/Happy-Birthday-To-You-Instrumental.mp3";
