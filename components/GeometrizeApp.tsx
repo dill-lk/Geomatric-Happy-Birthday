@@ -99,7 +99,7 @@ export default function GeometrizeApp() {
     }, [windowWidth, windowHeight, imageLoaded]);
 
     useEffect(() => {
-        if (progress > 2 && typedText.length < SUB_MESSAGE.length) {
+        if (progress > 0 && typedText.length < SUB_MESSAGE.length) {
             const timeout = setTimeout(() => {
                 setTypedText(SUB_MESSAGE.slice(0, typedText.length + 1));
             }, 30); 
